@@ -272,7 +272,7 @@
         },
         {
             "name": "php-di/php-di",
-            "version": "6.3.0",
+            "version": "7.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-DI/PHP-DI.git",
