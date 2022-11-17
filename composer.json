@@ -29,7 +29,7 @@
         "react/http": "^1.2",
         "psr/log": "^1.1",
         "psr/container": "^2.0.2",
-        "php-di/php-di": "^6.3",
+        "php-di/php-di": "^7.x-dev",
         "react/cache": "^1.1",
         "php-http/multipart-stream-builder": "^1.1",
         "netresearch/jsonmapper": "^4.0",
