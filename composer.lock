@@ -235,7 +235,7 @@
             },
             "require": {
                 "php": ">=7.3",
-                "psr/container": "~1.0"
+                "psr/container": "~1.1"
             },
             "require-dev": {
                 "athletic/athletic": "~0.1.8",
